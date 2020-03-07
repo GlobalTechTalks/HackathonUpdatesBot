@@ -1,0 +1,2 @@
+# HackathonUpdatesBot
+Hackathon Updates Bot
